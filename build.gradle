@@ -36,10 +36,11 @@ dependencies {
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 
 	// DB
-	implementation 'org.mybatis.spring.boot:mybatis-spring-boot-starter:2.2.2'
-	implementation 'org.springframework.boot:spring-boot-starter-jdbc:2.7.18'
-	implementation 'mysql:mysql-connector-java:8.0.37'
 	runtimeOnly 'com.mysql:mysql-connector-j'
+
+	// dotenv
+	implementation 'io.github.cdimascio:dotenv-java:2.2.3'
+
 }
 
 tasks.named('test') {
