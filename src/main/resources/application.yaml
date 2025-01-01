@@ -1,0 +1,44 @@
+server:
+  # Servlet
+  servlet:
+    encoding:
+      charset: UTF-8
+    session:
+      timeout: 60m
+  # Port
+  port: 8181
+
+spring:
+  # App name
+  application:
+    name: api
+
+  # .env import
+  config:
+    import: optional:file:.env[.properties]
+
+  # Datasource (MySQL)
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    hikari:
+      maximum-pool-size: 10
+    url: jdbc:mysql://localhost:{DATASOURCE_PORT}/{DATABASE_NAME}?useSSL=false&serverTimezone=Asia/Seoul&characterEncoding=UTF-8
+    username: {DATASOURCE_USERNAME}
+    password: {DATASOURCE_PASSWORD}
+
+  # Devtools Option (Live Load)
+  devtools:
+    livereload:
+      enabled: true
+    restart:
+      enabled: true
+
+
+# MyBatis Mapper
+mybatis:
+  mapper-locations: classpath:/mapper/*.xml
+  # Aliasses location
+  type-aliases-package: com.sanchat.api.dto
+  # Camel Option
+  configuration:
+    map-underscore-to-camel-case: true
