@@ -1,9 +1,9 @@
-# 산챗 🐶 :: 반려견과 산책하며 새로운 친구를 만나보세요! 🐾🚶‍♂️👫💬
+# 산챗 🐶 :: 반려견과 산책하며 새로운 친구를 만나보세요! 🚶‍♂️💬
 
 
-| MAP | MYPAGE | COMMUNITY | 
+|  |  |  | 
 | --- | --- | --- |
-| ![ezgif-5fc8715f7a6663](https://github.com/user-attachments/assets/faa6f242-0f39-4419-963c-d531b611d4bb) |  ![ezgif-5da3ddaae5ced5](https://github.com/user-attachments/assets/da11ca85-ffb1-4ea4-9e4a-f26da69d7bbb)  | ![image](https://github.com/user-attachments/assets/59439d52-5412-402c-89e0-768cfd07dd31) |
+| <img src="https://github.com/user-attachments/assets/faa6f242-0f39-4419-963c-d531b611d4bb" width="250px" hegiht=""> | <img src="https://github.com/user-attachments/assets/da11ca85-ffb1-4ea4-9e4a-f26da69d7bbb" width="250px" hegiht=""> | <img src="https://github.com/user-attachments/assets/59439d52-5412-402c-89e0-768cfd07dd31" width="250px" hegiht=""> | 
 
 
 
