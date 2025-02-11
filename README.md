@@ -120,9 +120,10 @@
 
 ## 채팅
 
-| 채팅 리스트 | 채팅방 | 채팅방 | 
-| --- | --- | --- |
-|  |    |    |   
+| 채팅 리스트 | 채팅방 |
+| --- | --- |
+| <img src="https://github.com/user-attachments/assets/abc0c694-ced5-4972-8c9e-d5e3efe5b4f8"> | <img src="https://github.com/user-attachments/assets/e1585ef0-ef93-47b3-8a19-5e5a02ae4619"> |
+
 
 
 
