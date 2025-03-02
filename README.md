@@ -62,6 +62,9 @@
 <details>
   <summary>요구사항 정의서</summary>
 
+  ![정의](https://github.com/user-attachments/assets/6873354b-93cd-4418-a0c7-959516847066)
+
+
 ![요구사항 정의서](https://github.com/user-attachments/assets/b4610f94-f463-4b6d-a0a7-201ad32413b9)
 </details>
 
